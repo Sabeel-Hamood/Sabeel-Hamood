@@ -3,7 +3,7 @@
 <h2>👩‍💻 Software Development Projects:</h2>
 
 - <b>Ekrut-a system for making orders for buying snacks (Java)</b>
-   - Code & Relevant files:([https://github.com/joshmadakor1/Sentinel-Lab](https://github.com/Sabeel-Hamood/EkrutProject.git))
+   - Code & Relevant files:(https://github.com/Sabeel-Hamood/EkrutProject.git)
   
 - <b>Pacathon- a website that helps people learn about cloud computing(Python, JavaScript, Google Colab)</b>
   - Code & Relevant files: (https://github.com/Sabeel-Hamood/Pacathon.git)
