@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sabeel! <br/>
+<h1>Hi, I'm Sabeel- a software engineering student! <br/>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
