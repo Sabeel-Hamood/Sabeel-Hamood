@@ -1,12 +1,13 @@
 <h1>Hi, I'm Sabeel- a software engineering student! <br/>
 
 <h2>👩‍💻 Software Development Projects:</h2>
-
-- <b>Ekrut-a system for making orders for buying snacks (Java)</b>
-   - Code & Relevant files:(https://github.com/Sabeel-Hamood/EkrutProject.git)
   
 - <b>Pacathon- a website that helps people learn about cloud computing(Python, JavaScript, Google Colab)</b>
   - Code & Relevant files: (https://github.com/Sabeel-Hamood/Pacathon.git)
+
+- <b>Ekrut-a system for making orders for buying snacks (Java)</b>
+   - Code & Relevant files:(https://github.com/Sabeel-Hamood/EkrutProject.git)
+
 
 - <b>Expenses Tracker (Dart & Flutter)</b>
   - (https://github.com/Sabeel-Hamood/ExpensesTracker.git)
