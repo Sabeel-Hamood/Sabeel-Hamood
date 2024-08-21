@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sabeel- a Software Engineering, graduated from Braude College of Engineering! <br/>
 
-<h2>👩‍💻 Software Development Projects:</h2>
+<h2>👩‍💻 Software Development Projects:</h2><br></br>
 
 
 - <b>FTTell- a system for diagnosing children suffering from failure to thrive(Python, JavaScript, React, Node.js , MongoDB)</b>
