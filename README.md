@@ -4,7 +4,7 @@
 
 
 - <b>FTTell- a system for diagnosing children suffering from failure to thrive(Python, JavaScript, React, Node.js , MongoDB)</b>
-  - ode & link to the website system: (https://github.com/Sabeel-Hamood/FTTell.git)
+  - Code & link to the website system: (https://github.com/Sabeel-Hamood/FTTell.git)
   
 - <b>Pacathon- a website that helps people learn about cloud computing(Python, JavaScript, Google Colab)</b>
   - Code & Relevant files: (https://github.com/Sabeel-Hamood/Pacathon.git)
