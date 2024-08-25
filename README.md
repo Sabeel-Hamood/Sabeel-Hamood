@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sabeel- a Software Engineering, graduated from Braude College of Engineering! <br/>
+<h1>Hi, I'm Sabeel- a Software Engineering graduated <br/>
 
 <h2>👩‍💻 Software Development Projects:</h2><br></br>
 
